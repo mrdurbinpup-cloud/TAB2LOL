@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SUPERxTAP2LOL.aternos.me:56940",
+    "ip": "SUPERxTAP2LOL.aternos.me",
     "port": 56940,
     "version": "",
     "try-creative": false
